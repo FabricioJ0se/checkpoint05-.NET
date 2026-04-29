@@ -2,7 +2,7 @@
 
 > **FIAP – Faculdade de Informática e Administração Paulista**
 > Curso de Tecnologia em Análise e Desenvolvimento de Sistemas (TDS)
-> Professor: Dr. Marcel Stefan Wagner — Checkpoint 5
+> Professor: Marcel Stefan Wagner — Checkpoint 5
 
 ---
 
@@ -10,11 +10,12 @@
 
 | Nome Completo | RM |
 |---|---|
-| _(Integrante 1)_ | RM000000 |
-| _(Integrante 2)_ | RM000000 |
-| _(Integrante 3)_ | RM000000 |
-
-> ⚠️ Substitua com os nomes e RMs reais do seu grupo.
+| _Fabrico Jose da Silva_                | RM560694 |
+| _Lucas Da Ressureição Barbosa_         | RM560179 |
+| _Ranaldo Jose da Silva_                | RM559210 |
+| _Marcos Vinícius Alves Marques_        | RM560475 |
+| _Daniel Kendi Saijo Araki_             | RM553043 |
+| _Jonas Kimio Isiki_                    | RM560560 |
 
 ---
 
@@ -190,7 +191,7 @@ dotnet run
 **Sender 1 — saída esperada no terminal:**
 ```
 ╔══════════════════════════════════════════╗
-║     SENDER 1 - Frutas de Época (Producer) ║
+║     SENDER 1 - Frutas de Época (Producer)║
 ╚══════════════════════════════════════════╝
 
 [28/04/2026 10:00:00] Iniciando envio de frutas de época...
@@ -233,7 +234,7 @@ dotnet run
 **Sender 2 — saída esperada:**
 ```
 ╔══════════════════════════════════════════╗
-║    SENDER 2 - Dados de Usuário (Producer) ║
+║    SENDER 2 - Dados de Usuário (Producer)║
 ╚══════════════════════════════════════════╝
 
 [28/04/2026 10:01:00] Iniciando envio de usuários...

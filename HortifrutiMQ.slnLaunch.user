@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "Validation\\Validation.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Receiver1\\Receiver1.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Receiver2\\Receiver2.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Sender1\\Sender1.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Sender2\\Sender2.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
